@@ -3,9 +3,9 @@ from netmiko import ConnectHandler
 
 device = {
     'device_type': 'cisco_xr',
-    'host': 'sandbox-iosxr-1.cisco.com',
-    'username': 'puneet.work',
-    'password': 'Em4v-TzM0n7v_n',
+    'host': 'YOUR_SANDBOX_HOST',
+    'username': 'YOUR_USERNAME',
+    'password': 'YOUR_PASSWORD',
     'port': 22,
 }
 
