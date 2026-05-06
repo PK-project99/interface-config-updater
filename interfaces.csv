@@ -1,0 +1,6 @@
+vlan_id,description,interface
+10,MANAGEMENT,GigabitEthernet0/0/0/0
+20,SALES,GigabitEthernet0/0/0/1
+30,ENGINEERING,GigabitEthernet0/0/0/0
+
+
